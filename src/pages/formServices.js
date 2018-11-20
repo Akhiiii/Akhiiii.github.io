@@ -2,7 +2,7 @@
 
 import axios from 'axios';
 
-const API = 'http://192.168.2.136:8088/api/';
+const API = 'xxxxxxxxxxxxxxx/api/';
 
 export const serviceSave = values => {
     return axios.post(`${API}v1/user/registration`, values)
