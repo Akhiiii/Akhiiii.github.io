@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Demo:
-![GitHub Logo](https://github.com/Akhiiii/crud-operation-with-dva-antd-react.github.io/blob/master/demo.png)
+![GitHub Logo]()
 ## Available Scripts
 
 In the project directory, you can run:
