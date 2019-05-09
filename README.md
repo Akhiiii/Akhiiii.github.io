@@ -27,5 +27,3 @@ https://github.com/sbv-solutions-private-limited/ofbiz-framework
 ## Useful links
  * [Ant Design React UI framework](https://ant.design/)
  * [Know about DVA](https://ant.design/docs/react/practical-projects) 
- * [APACHE-OFBiz official site
-](https://ofbiz.apache.org/ofbiz-demos.html)
