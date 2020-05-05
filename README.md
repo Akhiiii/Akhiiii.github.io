@@ -21,11 +21,7 @@ cd Dva
 npm install
 
 npm start   
-```
-```
-To use ofbiz sevices for Api integration , follow it 
-https://github.com/sbv-solutions-private-limited/ofbiz-framework
-```
+
 
 
 ## Useful links
